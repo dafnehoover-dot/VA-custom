@@ -4,7 +4,7 @@
   "author": "Daphne Hoover",
   "model": "calsifer.tflite",
   "trained_languages": ["en"],
-  "version": 1,
+  "version": 2,
   "micro": {
     "probability_cutoff": 0.9,
     "feature_step_size": 10,
